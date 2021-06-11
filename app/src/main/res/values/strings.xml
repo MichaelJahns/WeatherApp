@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="lookup">Lookup</string>
+    <string name="city_name">City Name</string>
+    <string name="label_temperature">Temperature</string>
+    <string name="label_weather_system">Weather System</string>
+    <string name="temperature">72 C</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weather_system">Clouds</string>
+    <string name="weather_description">broken clouds</string>
+</resources>
